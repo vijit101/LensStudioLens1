@@ -1,0 +1,39 @@
+{
+    "1717233563757483:452151": {
+        "IFileManager": {
+            "path": "Files/File_1717233563757483_452151"
+        }
+    },
+    "1717233563759101:452152": {
+        "IResourceController": {
+            "name": "Confetti Particles Material [EDIT HERE]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233563759106:452153",
+            "fileId": "1717233563757483:452151",
+            "originalId": "1717233563791972:452159",
+            "publicId": "1717233563934115:452168",
+            "expected_hash": "aa11bafc589ee7a9e4b5984e6206a918"
+        },
+        "IResourceManager": {
+            "uid": "1717233563759106:452153",
+            "name": "Files/File_1717233563757483_452151",
+            "flags": 1
+        }
+    },
+    "1717233563791972:452159": {
+        "IFileManager": {
+            "path": "Files/File_1717233563791972_452159.lsmat"
+        }
+    },
+    "1717233563934115:452168": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles/Confetti Particles Material [EDIT HERE].lsmat",
+                "hash": "7b00d1823b5e1d9aff9bdce015784b3a"
+            }
+        }
+    }
+}

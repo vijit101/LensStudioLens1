@@ -1,0 +1,39 @@
+{
+    "1717233844586535:539494": {
+        "IFileManager": {
+            "path": "Files/File_1717233844586535_539494"
+        }
+    },
+    "1717233844588652:539495": {
+        "IResourceController": {
+            "name": "aviator_rubber",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233844588661:539496",
+            "fileId": "1717233844586535:539494",
+            "originalId": "1717233844619616:539502",
+            "publicId": "1717233844809221:539511",
+            "expected_hash": "e30df036e123b2ecc610b5cbd81fed22"
+        },
+        "IResourceManager": {
+            "uid": "1717233844588661:539496",
+            "name": "Files/File_1717233844586535_539494",
+            "flags": 1
+        }
+    },
+    "1717233844619616:539502": {
+        "IFileManager": {
+            "path": "Files/File_1717233844619616_539502.lsmat"
+        }
+    },
+    "1717233844809221:539511": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Materials/Aviator/aviator_rubber.lsmat",
+                "hash": "99d164be611763c970f849afe83583d0"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1717233845450659:539990": {
+        "IResourceController": {
+            "name": "glasses_round",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233845450859:539993",
+            "resources": [
+                "1717233845452120:540001"
+            ]
+        }
+    },
+    "1717233845450859:539993": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Geometry/glasses_round"
+            }
+        }
+    }
+}

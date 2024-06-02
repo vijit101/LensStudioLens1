@@ -1,0 +1,42 @@
+{
+    "1717233841931421:537794": {
+        "IFileManager": {
+            "path": "Files/File_1717233841931421_537794.png"
+        }
+    },
+    "1717233841933514:537810": {
+        "IResourceController": {
+            "name": "MaterialParams",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233841936764:537839",
+            "fileId": "1717233841931421:537794",
+            "originalId": "1717233841937133:537847",
+            "publicId": "1717233841949739:537952",
+            "expected_hash": "af2715bddfbca2d4e72f470d285c5010",
+            "additional": {
+                "originHash": "af2715bddfbca2d4e72f470d285c5010"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233841936764:537839",
+            "name": "Files/File_1717233841931421_537794.jpg",
+            "flags": 1
+        }
+    },
+    "1717233841937133:537847": {
+        "IFileManager": {
+            "path": "Files/File_1717233841937133_537847.png"
+        }
+    },
+    "1717233841949739:537952": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Textures/MaterialParams.png",
+                "hash": "af2715bddfbca2d4e72f470d285c5010"
+            }
+        }
+    }
+}

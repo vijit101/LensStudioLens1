@@ -1,0 +1,42 @@
+{
+    "1717233710789268:494573": {
+        "IFileManager": {
+            "path": "Files/File_1717233710789268_494573.pvr"
+        }
+    },
+    "1717233710790991:494574": {
+        "IResourceController": {
+            "name": "pink_lens",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710792235:494575",
+            "fileId": "1717233710789268:494573",
+            "originalId": "1717233710792738:494580",
+            "publicId": "1717233710814188:494586",
+            "expected_hash": "e40a4416922c85546cba559a851d1dd5",
+            "additional": {
+                "originHash": "e40a4416922c85546cba559a851d1dd5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710792235:494575",
+            "name": "Files/File_1717233710789268_494573.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710792738:494580": {
+        "IFileManager": {
+            "path": "Files/File_1717233710792738_494580.pvr"
+        }
+    },
+    "1717233710814188:494586": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Sunglasses/pink_lens.pvr",
+                "hash": "e40a4416922c85546cba559a851d1dd5"
+            }
+        }
+    }
+}

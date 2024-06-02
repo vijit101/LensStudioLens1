@@ -1,0 +1,42 @@
+{
+    "1717233709914898:494015": {
+        "IFileManager": {
+            "path": "Files/File_1717233709914898_494015.pvr"
+        }
+    },
+    "1717233709916540:494016": {
+        "IResourceController": {
+            "name": "ear_kitty",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233709917298:494017",
+            "fileId": "1717233709914898:494015",
+            "originalId": "1717233709917562:494022",
+            "publicId": "1717233709932226:494034",
+            "expected_hash": "27861bf5d33aabae002c3b55373136f1",
+            "additional": {
+                "originHash": "27861bf5d33aabae002c3b55373136f1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233709917298:494017",
+            "name": "Files/File_1717233709914898_494015.jpg",
+            "flags": 1
+        }
+    },
+    "1717233709917562:494022": {
+        "IFileManager": {
+            "path": "Files/File_1717233709917562_494022.pvr"
+        }
+    },
+    "1717233709932226:494034": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Ear/ear_kitty.pvr",
+                "hash": "27861bf5d33aabae002c3b55373136f1"
+            }
+        }
+    }
+}

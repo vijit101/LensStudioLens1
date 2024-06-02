@@ -1,0 +1,79 @@
+{
+    "1717233844498810:539463": {
+        "IFileManager": {
+            "path": "Files/File_1717233844498810_539463.pvr"
+        }
+    },
+    "1717233844500783:539464": {
+        "IResourceController": {
+            "name": "nerd_normals",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233844501420:539465",
+            "fileId": "1717233844498810:539463",
+            "originalId": "1717233844501723:539470",
+            "publicId": "1717233844534302:539479",
+            "expected_hash": "10da4c641e4ea31949be216c13af05ca",
+            "additional": {
+                "originHash": "b72071ac0833bdddf3e44fb186d0c400"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233844501420:539465",
+            "name": "Files/File_1717233844498810_539463.jpg",
+            "flags": 1
+        }
+    },
+    "1717233844501420:539465": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b72071ac0833bdddf3e44fb186d0c400"
+                    },
+                    "v": "1717233891567126:574162"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "41734",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "43136",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717233844514497:539478"
+        }
+    },
+    "1717233844501723:539470": {
+        "IFileManager": {
+            "path": "Files/File_1717233844501723_539470.jpg"
+        }
+    },
+    "1717233844514497:539478": {
+        "IFileManager": {
+            "path": "Files/File_1717233844514497_539478.jpg"
+        }
+    },
+    "1717233844534302:539479": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Textures/FramesTextures/nerd_normals.jpg",
+                "hash": "b72071ac0833bdddf3e44fb186d0c400"
+            }
+        }
+    },
+    "1717233891567126:574162": {
+        "IFileManager": {
+            "path": "Files/File_1717233891567126_574162.pvr"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1717232362659993:68143": {
+        "IFileManager": {
+            "path": "Files/File_1717232362659993_68143.pvr"
+        }
+    },
+    "1717232362661601:68144": {
+        "IResourceController": {
+            "name": "Kaaba",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717232362662281:68145",
+            "fileId": "1717232362659993:68143",
+            "originalId": "1717232362662569:68150",
+            "publicId": "1717232362694224:68161",
+            "expected_hash": "89f8ef9b35dfdf161729ce8ebda228aa",
+            "additional": {
+                "originHash": "2c7e11eeec3aeeb5cfa0c5f819de6d7c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717232362662281:68145",
+            "name": "Files/File_1717232362659993_68143.jpg",
+            "flags": 1
+        }
+    },
+    "1717232362662281:68145": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "2c7e11eeec3aeeb5cfa0c5f819de6d7c"
+                    },
+                    "v": "1717232363971312:68894"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "557280",
+                "compressedSize": "37620",
+                "extension": "png",
+                "originalRAM": "4449600",
+                "originalSize": "83999",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717232362675005:68160"
+        }
+    },
+    "1717232362662569:68150": {
+        "IFileManager": {
+            "path": "Files/File_1717232362662569_68150.png"
+        }
+    },
+    "1717232362675005:68160": {
+        "IFileManager": {
+            "path": "Files/File_1717232362675005_68160.png"
+        }
+    },
+    "1717232362694224:68161": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Kaaba.png",
+                "hash": "2c7e11eeec3aeeb5cfa0c5f819de6d7c"
+            }
+        }
+    },
+    "1717232363971312:68894": {
+        "IFileManager": {
+            "path": "Files/File_1717232363971312_68894.pvr"
+        }
+    }
+}

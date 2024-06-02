@@ -1,0 +1,42 @@
+{
+    "1717233710215838:494221": {
+        "IFileManager": {
+            "path": "Files/File_1717233710215838_494221.pvr"
+        }
+    },
+    "1717233710217600:494222": {
+        "IResourceController": {
+            "name": "crown",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710220078:494223",
+            "fileId": "1717233710215838:494221",
+            "originalId": "1717233710220442:494228",
+            "publicId": "1717233710237148:494236",
+            "expected_hash": "2f1118215eb1c94dbca4672f92f00dd2",
+            "additional": {
+                "originHash": "2f1118215eb1c94dbca4672f92f00dd2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710220078:494223",
+            "name": "Files/File_1717233710215838_494221.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710220442:494228": {
+        "IFileManager": {
+            "path": "Files/File_1717233710220442_494228.pvr"
+        }
+    },
+    "1717233710237148:494236": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Headband/crown.pvr",
+                "hash": "2f1118215eb1c94dbca4672f92f00dd2"
+            }
+        }
+    }
+}

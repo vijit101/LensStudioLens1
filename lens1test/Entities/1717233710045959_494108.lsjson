@@ -1,0 +1,42 @@
+{
+    "1717233710043938:494107": {
+        "IFileManager": {
+            "path": "Files/File_1717233710043938_494107.pvr"
+        }
+    },
+    "1717233710045959:494108": {
+        "IResourceController": {
+            "name": "ear_fox",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710046657:494109",
+            "fileId": "1717233710043938:494107",
+            "originalId": "1717233710046962:494114",
+            "publicId": "1717233710062941:494122",
+            "expected_hash": "1a6ff1a548d080d0e49927bb4f9ac642",
+            "additional": {
+                "originHash": "1a6ff1a548d080d0e49927bb4f9ac642"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710046657:494109",
+            "name": "Files/File_1717233710043938_494107.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710046962:494114": {
+        "IFileManager": {
+            "path": "Files/File_1717233710046962_494114.pvr"
+        }
+    },
+    "1717233710062941:494122": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Ear/ear_fox.pvr",
+                "hash": "1a6ff1a548d080d0e49927bb4f9ac642"
+            }
+        }
+    }
+}

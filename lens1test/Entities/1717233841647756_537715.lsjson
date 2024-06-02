@@ -1,0 +1,39 @@
+{
+    "1717233841645991:537714": {
+        "IFileManager": {
+            "path": "Files/File_1717233841645991_537714"
+        }
+    },
+    "1717233841647756:537715": {
+        "IResourceController": {
+            "name": "frame_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233841647763:537716",
+            "fileId": "1717233841645991:537714",
+            "originalId": "1717233841681685:537722",
+            "publicId": "1717233841900275:537731",
+            "expected_hash": "9eb565a05580a3f3d3fc33e1a2c51b6c"
+        },
+        "IResourceManager": {
+            "uid": "1717233841647763:537716",
+            "name": "Files/File_1717233841645991_537714",
+            "flags": 1
+        }
+    },
+    "1717233841681685:537722": {
+        "IFileManager": {
+            "path": "Files/File_1717233841681685_537722.lsmat"
+        }
+    },
+    "1717233841900275:537731": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Materials/frame_material.lsmat",
+                "hash": "1fcfc0c61e6af9f5104a1df4cef837ed"
+            }
+        }
+    }
+}

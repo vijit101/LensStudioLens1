@@ -1,0 +1,39 @@
+{
+    "1717233843470740:538920": {
+        "IFileManager": {
+            "path": "Files/File_1717233843470740_538920"
+        }
+    },
+    "1717233843472042:538921": {
+        "IResourceController": {
+            "name": "round_rubber",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233843472050:538922",
+            "fileId": "1717233843470740:538920",
+            "originalId": "1717233843504591:538928",
+            "publicId": "1717233843689180:538937",
+            "expected_hash": "e30df036e123b2ecc610b5cbd81fed22"
+        },
+        "IResourceManager": {
+            "uid": "1717233843472050:538922",
+            "name": "Files/File_1717233843470740_538920",
+            "flags": 1
+        }
+    },
+    "1717233843504591:538928": {
+        "IFileManager": {
+            "path": "Files/File_1717233843504591_538928.lsmat"
+        }
+    },
+    "1717233843689180:538937": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Materials/Round/round_rubber.lsmat",
+                "hash": "4a6ffd4b2c54db9953a53ed0801c1376"
+            }
+        }
+    }
+}

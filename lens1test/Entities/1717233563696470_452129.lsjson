@@ -1,0 +1,80 @@
+{
+    "1717233563693642:452128": {
+        "IFileManager": {
+            "path": "Files/File_1717233563693642_452128.pvr"
+        }
+    },
+    "1717233563696470:452129": {
+        "IResourceController": {
+            "name": "Confetti",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233563713318:452132",
+            "fileId": "1717233563693642:452128",
+            "originalId": "1717233563713697:452137",
+            "publicId": "1717233563744193:452144",
+            "expected_hash": "787b5a2928b501d9002bad8a1fa9c6c6",
+            "additional": {
+                "originHash": "1ca5688657a0cc19e698fdd57b114ac4",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233563713318:452132",
+            "name": "Files/File_1717233563693642_452128.jpg",
+            "flags": 1
+        }
+    },
+    "1717233563713318:452132": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "1ca5688657a0cc19e698fdd57b114ac4"
+                    },
+                    "v": "1717233564141284:452428"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "120000",
+                "compressedSize": "8197",
+                "extension": "png",
+                "originalRAM": "960000",
+                "originalSize": "14480",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717233563726857:452143"
+        }
+    },
+    "1717233563713697:452137": {
+        "IFileManager": {
+            "path": "Files/File_1717233563713697_452137.png"
+        }
+    },
+    "1717233563726857:452143": {
+        "IFileManager": {
+            "path": "Files/File_1717233563726857_452143.png"
+        }
+    },
+    "1717233563744193:452144": {
+        "IResourceController": {
+            "public": {
+                "path": "Confetti.png",
+                "hash": "1ca5688657a0cc19e698fdd57b114ac4"
+            }
+        }
+    },
+    "1717233564141284:452428": {
+        "IFileManager": {
+            "path": "Files/File_1717233564141284_452428.pvr"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1717232362926121:68265": {
+        "IFileManager": {
+            "path": "Files/File_1717232362926121_68265.pvr"
+        }
+    },
+    "1717232362928170:68266": {
+        "IResourceController": {
+            "name": "Prophet Mosque",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717232362928867:68267",
+            "fileId": "1717232362926121:68265",
+            "originalId": "1717232362929224:68272",
+            "publicId": "1717232362963774:68281",
+            "expected_hash": "c575f12a6c69b87cabe84656af872908",
+            "additional": {
+                "originHash": "96dc801fca173a32918de66f7ec372a7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717232362928867:68267",
+            "name": "Files/File_1717232362926121_68265.jpg",
+            "flags": 1
+        }
+    },
+    "1717232362928867:68267": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "96dc801fca173a32918de66f7ec372a7"
+                    },
+                    "v": "1717232368029432:70535"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "557280",
+                "compressedSize": "71261",
+                "extension": "png",
+                "originalRAM": "4449600",
+                "originalSize": "192169",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717232362942805:68280"
+        }
+    },
+    "1717232362929224:68272": {
+        "IFileManager": {
+            "path": "Files/File_1717232362929224_68272.png"
+        }
+    },
+    "1717232362942805:68280": {
+        "IFileManager": {
+            "path": "Files/File_1717232362942805_68280.png"
+        }
+    },
+    "1717232362963774:68281": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Prophet Mosque.png",
+                "hash": "96dc801fca173a32918de66f7ec372a7"
+            }
+        }
+    },
+    "1717232368029432:70535": {
+        "IFileManager": {
+            "path": "Files/File_1717232368029432_70535.pvr"
+        }
+    }
+}

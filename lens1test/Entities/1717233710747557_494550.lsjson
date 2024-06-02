@@ -1,0 +1,42 @@
+{
+    "1717233710745846:494549": {
+        "IFileManager": {
+            "path": "Files/File_1717233710745846_494549.pvr"
+        }
+    },
+    "1717233710747557:494550": {
+        "IResourceController": {
+            "name": "kitty_sunglasses",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710748277:494551",
+            "fileId": "1717233710745846:494549",
+            "originalId": "1717233710748623:494556",
+            "publicId": "1717233710765761:494564",
+            "expected_hash": "07e2f4c33806e8a5d9ce45e39a228c3b",
+            "additional": {
+                "originHash": "07e2f4c33806e8a5d9ce45e39a228c3b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710748277:494551",
+            "name": "Files/File_1717233710745846_494549.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710748623:494556": {
+        "IFileManager": {
+            "path": "Files/File_1717233710748623_494556.pvr"
+        }
+    },
+    "1717233710765761:494564": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Sunglasses/kitty_sunglasses.pvr",
+                "hash": "07e2f4c33806e8a5d9ce45e39a228c3b"
+            }
+        }
+    }
+}

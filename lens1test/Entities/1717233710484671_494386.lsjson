@@ -1,0 +1,42 @@
+{
+    "1717233710482409:494385": {
+        "IFileManager": {
+            "path": "Files/File_1717233710482409_494385.pvr"
+        }
+    },
+    "1717233710484671:494386": {
+        "IResourceController": {
+            "name": "nose_deer",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710485394:494387",
+            "fileId": "1717233710482409:494385",
+            "originalId": "1717233710485695:494392",
+            "publicId": "1717233710501112:494400",
+            "expected_hash": "f34818a47989c3b36f89b94792caab35",
+            "additional": {
+                "originHash": "f34818a47989c3b36f89b94792caab35"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710485394:494387",
+            "name": "Files/File_1717233710482409_494385.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710485695:494392": {
+        "IFileManager": {
+            "path": "Files/File_1717233710485695_494392.pvr"
+        }
+    },
+    "1717233710501112:494400": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Nose/nose_deer.pvr",
+                "hash": "f34818a47989c3b36f89b94792caab35"
+            }
+        }
+    }
+}

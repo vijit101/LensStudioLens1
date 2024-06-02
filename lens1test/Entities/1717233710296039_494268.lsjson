@@ -1,0 +1,42 @@
+{
+    "1717233710293959:494266": {
+        "IFileManager": {
+            "path": "Files/File_1717233710293959_494266.pvr"
+        }
+    },
+    "1717233710296039:494268": {
+        "IResourceController": {
+            "name": "headband_polka",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710296845:494269",
+            "fileId": "1717233710293959:494266",
+            "originalId": "1717233710297208:494274",
+            "publicId": "1717233710311790:494280",
+            "expected_hash": "7667ffec0ddb4d0accd2d453ffc35b0c",
+            "additional": {
+                "originHash": "7667ffec0ddb4d0accd2d453ffc35b0c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710296845:494269",
+            "name": "Files/File_1717233710293959_494266.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710297208:494274": {
+        "IFileManager": {
+            "path": "Files/File_1717233710297208_494274.pvr"
+        }
+    },
+    "1717233710311790:494280": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Headband/headband_polka.pvr",
+                "hash": "7667ffec0ddb4d0accd2d453ffc35b0c"
+            }
+        }
+    }
+}

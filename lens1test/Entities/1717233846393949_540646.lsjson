@@ -1,0 +1,115 @@
+{
+    "1717233846391833:540645": {
+        "IFileManager": {
+            "path": "Files/File_1717233846391833_540645.mesh"
+        }
+    },
+    "1717233846393949:540646": {
+        "IResourceController": {
+            "name": "Object002",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233846406172:540648",
+            "fileId": "1717233846391833:540645",
+            "publicId": "1717233846419501:540662",
+            "expected_hash": "13fad291c6e9ff6914d11d58448c9f2d",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233846406172:540648",
+            "name": "Files/File_1717233846391833_540645.mesh",
+            "flags": 1
+        }
+    },
+    "1717233846406172:540648": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "6000",
+                "compressedSize": "4895",
+                "extension": "mesh",
+                "originalRAM": "6000",
+                "originalSize": "4895",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1717233846412427:540659"
+        }
+    },
+    "1717233846412427:540659": {
+        "IFileManager": {
+            "path": "Files/File_1717233846412427_540659.mesh"
+        }
+    },
+    "1717233846419501:540662": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Geometry/glasses_round/Meshes/Object002.mesh",
+                "hash": "13fad291c6e9ff6914d11d58448c9f2d"
+            }
+        }
+    }
+}

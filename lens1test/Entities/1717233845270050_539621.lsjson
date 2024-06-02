@@ -1,0 +1,22 @@
+{
+    "1717233845270050:539621": {
+        "IResourceController": {
+            "name": "glasses_nerd",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233845270255:539622",
+            "resources": [
+                "1717233845270997:539623"
+            ]
+        }
+    },
+    "1717233845270255:539622": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Geometry/glasses_nerd"
+            }
+        }
+    }
+}

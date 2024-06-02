@@ -1,0 +1,42 @@
+{
+    "1717233710515689:494407": {
+        "IFileManager": {
+            "path": "Files/File_1717233710515689_494407.pvr"
+        }
+    },
+    "1717233710517423:494408": {
+        "IResourceController": {
+            "name": "nose_dog",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710518285:494409",
+            "fileId": "1717233710515689:494407",
+            "originalId": "1717233710518595:494414",
+            "publicId": "1717233710533534:494422",
+            "expected_hash": "4a3698945ed9cc63723823a0314ec308",
+            "additional": {
+                "originHash": "4a3698945ed9cc63723823a0314ec308"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710518285:494409",
+            "name": "Files/File_1717233710515689_494407.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710518595:494414": {
+        "IFileManager": {
+            "path": "Files/File_1717233710518595_494414.pvr"
+        }
+    },
+    "1717233710533534:494422": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Nose/nose_dog.pvr",
+                "hash": "4a3698945ed9cc63723823a0314ec308"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1717233710095506:494143": {
+        "IResourceController": {
+            "name": "Extras",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233710095742:494145",
+            "resources": [
+                "1717233710078998:494130",
+                "1717233710112368:494154",
+                "1717233710142977:494176"
+            ]
+        }
+    },
+    "1717233710095742:494145": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Extras"
+            }
+        }
+    }
+}

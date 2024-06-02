@@ -1,0 +1,42 @@
+{
+    "1717233710936817:494645": {
+        "IFileManager": {
+            "path": "Files/File_1717233710936817_494645.pvr"
+        }
+    },
+    "1717233710938430:494646": {
+        "IResourceController": {
+            "name": "eagle_sunglasses",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710939605:494647",
+            "fileId": "1717233710936817:494645",
+            "originalId": "1717233710939998:494652",
+            "publicId": "1717233710955417:494660",
+            "expected_hash": "cfbc097e29a7a361acc39fb0c3dda0d9",
+            "additional": {
+                "originHash": "cfbc097e29a7a361acc39fb0c3dda0d9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710939605:494647",
+            "name": "Files/File_1717233710936817_494645.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710939998:494652": {
+        "IFileManager": {
+            "path": "Files/File_1717233710939998_494652.pvr"
+        }
+    },
+    "1717233710955417:494660": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Sunglasses/eagle_sunglasses.pvr",
+                "hash": "cfbc097e29a7a361acc39fb0c3dda0d9"
+            }
+        }
+    }
+}

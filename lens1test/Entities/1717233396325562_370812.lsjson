@@ -1,0 +1,23 @@
+{
+    "1717233396325562:370812": {
+        "IResourceController": {
+            "name": "Brightness Transition Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233396325730:370813",
+            "resources": [
+                "1717233396326427:370814",
+                "1717233396464362:370831"
+            ]
+        }
+    },
+    "1717233396325730:370813": {
+        "IResourceController": {
+            "public": {
+                "path": "Brightness Transition Resources"
+            }
+        }
+    }
+}

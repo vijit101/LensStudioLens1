@@ -1,0 +1,42 @@
+{
+    "1717233710657304:494497": {
+        "IFileManager": {
+            "path": "Files/File_1717233710657304_494497.pvr"
+        }
+    },
+    "1717233710659063:494498": {
+        "IResourceController": {
+            "name": "star_lens",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710660265:494499",
+            "fileId": "1717233710657304:494497",
+            "originalId": "1717233710660564:494504",
+            "publicId": "1717233710676781:494512",
+            "expected_hash": "791d74bccd7868f878e782f02d74349c",
+            "additional": {
+                "originHash": "791d74bccd7868f878e782f02d74349c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710660265:494499",
+            "name": "Files/File_1717233710657304_494497.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710660564:494504": {
+        "IFileManager": {
+            "path": "Files/File_1717233710660564_494504.pvr"
+        }
+    },
+    "1717233710676781:494512": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Sunglasses/star_lens.pvr",
+                "hash": "791d74bccd7868f878e782f02d74349c"
+            }
+        }
+    }
+}

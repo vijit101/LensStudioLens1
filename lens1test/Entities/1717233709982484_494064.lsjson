@@ -1,0 +1,42 @@
+{
+    "1717233709980690:494063": {
+        "IFileManager": {
+            "path": "Files/File_1717233709980690_494063.pvr"
+        }
+    },
+    "1717233709982484:494064": {
+        "IResourceController": {
+            "name": "ear_purple_long",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233709983222:494065",
+            "fileId": "1717233709980690:494063",
+            "originalId": "1717233709983550:494070",
+            "publicId": "1717233710000722:494078",
+            "expected_hash": "7199c7bb0681ed4692761aa349da43e9",
+            "additional": {
+                "originHash": "7199c7bb0681ed4692761aa349da43e9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233709983222:494065",
+            "name": "Files/File_1717233709980690_494063.jpg",
+            "flags": 1
+        }
+    },
+    "1717233709983550:494070": {
+        "IFileManager": {
+            "path": "Files/File_1717233709983550_494070.pvr"
+        }
+    },
+    "1717233710000722:494078": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Ear/ear_purple_long.pvr",
+                "hash": "7199c7bb0681ed4692761aa349da43e9"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1717232362832490:68225": {
+        "IFileManager": {
+            "path": "Files/File_1717232362832490_68225.pvr"
+        }
+    },
+    "1717232362834614:68226": {
+        "IResourceController": {
+            "name": "Happy Eid",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717232362835390:68227",
+            "fileId": "1717232362832490:68225",
+            "originalId": "1717232362835781:68232",
+            "publicId": "1717232362870787:68241",
+            "expected_hash": "aecd2f0f58a08d7d1e2fabd549c5e774",
+            "additional": {
+                "originHash": "4a13d6a3ace0c0ae0e468d2148d9d461"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717232362835390:68227",
+            "name": "Files/File_1717232362832490_68225.jpg",
+            "flags": 1
+        }
+    },
+    "1717232362835390:68227": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "4a13d6a3ace0c0ae0e468d2148d9d461"
+                    },
+                    "v": "1717232367332462:70084"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "557280",
+                "compressedSize": "63670",
+                "extension": "png",
+                "originalRAM": "4449600",
+                "originalSize": "126891",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717232362850379:68240"
+        }
+    },
+    "1717232362835781:68232": {
+        "IFileManager": {
+            "path": "Files/File_1717232362835781_68232.png"
+        }
+    },
+    "1717232362850379:68240": {
+        "IFileManager": {
+            "path": "Files/File_1717232362850379_68240.png"
+        }
+    },
+    "1717232362870787:68241": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Happy Eid.png",
+                "hash": "4a13d6a3ace0c0ae0e468d2148d9d461"
+            }
+        }
+    },
+    "1717232367332462:70084": {
+        "IFileManager": {
+            "path": "Files/File_1717232367332462_70084.pvr"
+        }
+    }
+}

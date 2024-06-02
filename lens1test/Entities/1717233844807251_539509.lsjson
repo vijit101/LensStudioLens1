@@ -1,0 +1,23 @@
+{
+    "1717233844807251:539509": {
+        "IResourceController": {
+            "name": "Aviator",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233844807486:539510",
+            "resources": [
+                "1717233844588652:539495",
+                "1717233844883333:539539"
+            ]
+        }
+    },
+    "1717233844807486:539510": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Materials/Aviator"
+            }
+        }
+    }
+}

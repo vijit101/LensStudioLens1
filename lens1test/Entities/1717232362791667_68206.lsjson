@@ -1,0 +1,79 @@
+{
+    "1717232362789728:68205": {
+        "IFileManager": {
+            "path": "Files/File_1717232362789728_68205.pvr"
+        }
+    },
+    "1717232362791667:68206": {
+        "IResourceController": {
+            "name": "Eid al-Adha",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717232362792478:68207",
+            "fileId": "1717232362789728:68205",
+            "originalId": "1717232362792874:68212",
+            "publicId": "1717232362825081:68221",
+            "expected_hash": "b60b91e8baf951f991139c01a353d45c",
+            "additional": {
+                "originHash": "0e3d3b9a5befd518b7f00f050480b067"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717232362792478:68207",
+            "name": "Files/File_1717232362789728_68205.jpg",
+            "flags": 1
+        }
+    },
+    "1717232362792478:68207": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0e3d3b9a5befd518b7f00f050480b067"
+                    },
+                    "v": "1717232366972832:69859"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "557280",
+                "compressedSize": "74823",
+                "extension": "png",
+                "originalRAM": "4449600",
+                "originalSize": "152138",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717232362805588:68220"
+        }
+    },
+    "1717232362792874:68212": {
+        "IFileManager": {
+            "path": "Files/File_1717232362792874_68212.png"
+        }
+    },
+    "1717232362805588:68220": {
+        "IFileManager": {
+            "path": "Files/File_1717232362805588_68220.png"
+        }
+    },
+    "1717232362825081:68221": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Eid al-Adha.png",
+                "hash": "0e3d3b9a5befd518b7f00f050480b067"
+            }
+        }
+    },
+    "1717232366972832:69859": {
+        "IFileManager": {
+            "path": "Files/File_1717232366972832_69859.pvr"
+        }
+    }
+}

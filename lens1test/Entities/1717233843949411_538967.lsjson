@@ -1,0 +1,22 @@
+{
+    "1717233843949411:538967": {
+        "IResourceController": {
+            "name": "Nerd",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233843949588:538968",
+            "resources": [
+                "1717233843740664:538953"
+            ]
+        }
+    },
+    "1717233843949588:538968": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Materials/Nerd"
+            }
+        }
+    }
+}

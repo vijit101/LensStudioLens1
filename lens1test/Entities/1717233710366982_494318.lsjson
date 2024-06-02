@@ -1,0 +1,42 @@
+{
+    "1717233710365027:494317": {
+        "IFileManager": {
+            "path": "Files/File_1717233710365027_494317.pvr"
+        }
+    },
+    "1717233710366982:494318": {
+        "IResourceController": {
+            "name": "headband_rainbow",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710367734:494319",
+            "fileId": "1717233710365027:494317",
+            "originalId": "1717233710368032:494324",
+            "publicId": "1717233710386090:494330",
+            "expected_hash": "c7b4074dca74928968c1ec94b8c4a1a3",
+            "additional": {
+                "originHash": "c7b4074dca74928968c1ec94b8c4a1a3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710367734:494319",
+            "name": "Files/File_1717233710365027_494317.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710368032:494324": {
+        "IFileManager": {
+            "path": "Files/File_1717233710368032_494324.pvr"
+        }
+    },
+    "1717233710386090:494330": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Headband/headband_rainbow.pvr",
+                "hash": "c7b4074dca74928968c1ec94b8c4a1a3"
+            }
+        }
+    }
+}

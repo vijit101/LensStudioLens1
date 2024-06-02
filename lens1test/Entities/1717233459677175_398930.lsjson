@@ -1,0 +1,80 @@
+{
+    "1717233459675281:398929": {
+        "IFileManager": {
+            "path": "Files/File_1717233459675281_398929.pvr"
+        }
+    },
+    "1717233459677175:398930": {
+        "IResourceController": {
+            "name": "PE_Wave_Vector",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233459678068:398931",
+            "fileId": "1717233459675281:398929",
+            "originalId": "1717233459678424:398936",
+            "publicId": "1717233459718974:398945",
+            "expected_hash": "4d7a68eb4c04886862fac5b51698fb11",
+            "additional": {
+                "originHash": "3a0fff17d25a651bdb08560349432beb",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233459678068:398931",
+            "name": "Files/File_1717233459675281_398929.jpg",
+            "flags": 1
+        }
+    },
+    "1717233459678068:398931": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3a0fff17d25a651bdb08560349432beb"
+                    },
+                    "v": "1717233473629536:407030"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "37935",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "159811",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717233459693929:398944"
+        }
+    },
+    "1717233459678424:398936": {
+        "IFileManager": {
+            "path": "Files/File_1717233459678424_398936.png"
+        }
+    },
+    "1717233459693929:398944": {
+        "IFileManager": {
+            "path": "Files/File_1717233459693929_398944.png"
+        }
+    },
+    "1717233459718974:398945": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/PE_Wave_Vector.png",
+                "hash": "3a0fff17d25a651bdb08560349432beb"
+            }
+        }
+    },
+    "1717233473629536:407030": {
+        "IFileManager": {
+            "path": "Files/File_1717233473629536_407030.pvr"
+        }
+    }
+}

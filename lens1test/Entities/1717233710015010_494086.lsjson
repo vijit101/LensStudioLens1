@@ -1,0 +1,42 @@
+{
+    "1717233710013248:494085": {
+        "IFileManager": {
+            "path": "Files/File_1717233710013248_494085.pvr"
+        }
+    },
+    "1717233710015010:494086": {
+        "IResourceController": {
+            "name": "ear_bear",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710015777:494087",
+            "fileId": "1717233710013248:494085",
+            "originalId": "1717233710016137:494092",
+            "publicId": "1717233710030232:494100",
+            "expected_hash": "096b56d465a36bfae72e96c5a07c66ea",
+            "additional": {
+                "originHash": "096b56d465a36bfae72e96c5a07c66ea"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710015777:494087",
+            "name": "Files/File_1717233710013248_494085.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710016137:494092": {
+        "IFileManager": {
+            "path": "Files/File_1717233710016137_494092.pvr"
+        }
+    },
+    "1717233710030232:494100": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Ear/ear_bear.pvr",
+                "hash": "096b56d465a36bfae72e96c5a07c66ea"
+            }
+        }
+    }
+}

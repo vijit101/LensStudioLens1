@@ -1,0 +1,42 @@
+{
+    "1717233710616625:494473": {
+        "IFileManager": {
+            "path": "Files/File_1717233710616625_494473.pvr"
+        }
+    },
+    "1717233710618702:494474": {
+        "IResourceController": {
+            "name": "nose_pig",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710619350:494475",
+            "fileId": "1717233710616625:494473",
+            "originalId": "1717233710619654:494480",
+            "publicId": "1717233710635604:494488",
+            "expected_hash": "6ca8a6da725fbdfcf837fcb3b46cc180",
+            "additional": {
+                "originHash": "6ca8a6da725fbdfcf837fcb3b46cc180"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710619350:494475",
+            "name": "Files/File_1717233710616625_494473.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710619654:494480": {
+        "IFileManager": {
+            "path": "Files/File_1717233710619654_494480.pvr"
+        }
+    },
+    "1717233710635604:494488": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Nose/nose_pig.pvr",
+                "hash": "6ca8a6da725fbdfcf837fcb3b46cc180"
+            }
+        }
+    }
+}

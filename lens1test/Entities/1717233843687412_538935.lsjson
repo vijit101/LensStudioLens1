@@ -1,0 +1,23 @@
+{
+    "1717233843687412:538935": {
+        "IResourceController": {
+            "name": "Round",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233843687633:538936",
+            "resources": [
+                "1717233843472042:538921",
+                "1717233844253747:539375"
+            ]
+        }
+    },
+    "1717233843687633:538936": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Materials/Round"
+            }
+        }
+    }
+}

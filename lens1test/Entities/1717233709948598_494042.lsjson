@@ -1,0 +1,42 @@
+{
+    "1717233709946635:494041": {
+        "IFileManager": {
+            "path": "Files/File_1717233709946635_494041.pvr"
+        }
+    },
+    "1717233709948598:494042": {
+        "IResourceController": {
+            "name": "ear_wolf",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233709949449:494043",
+            "fileId": "1717233709946635:494041",
+            "originalId": "1717233709949872:494048",
+            "publicId": "1717233709965642:494056",
+            "expected_hash": "34c0cad8794d45f3ad9b9ff2131c33e1",
+            "additional": {
+                "originHash": "34c0cad8794d45f3ad9b9ff2131c33e1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233709949449:494043",
+            "name": "Files/File_1717233709946635_494041.jpg",
+            "flags": 1
+        }
+    },
+    "1717233709949872:494048": {
+        "IFileManager": {
+            "path": "Files/File_1717233709949872_494048.pvr"
+        }
+    },
+    "1717233709965642:494056": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Ear/ear_wolf.pvr",
+                "hash": "34c0cad8794d45f3ad9b9ff2131c33e1"
+            }
+        }
+    }
+}

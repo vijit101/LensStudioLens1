@@ -1,0 +1,77 @@
+{
+    "1717233842117003:538109": {
+        "IFileManager": {
+            "path": "Files/File_1717233842117003_538109"
+        }
+    },
+    "1717233842126643:538110": {
+        "IResourceController": {
+            "name": "logo_image",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233842134995:538115",
+            "fileId": "1717233842117003:538109",
+            "originalId": "1717233842145027:538122",
+            "publicId": "1717233842220161:538131",
+            "expected_hash": "0e25af3d018995822e405dd5269c0ea0"
+        },
+        "IResourceManager": {
+            "uid": "1717233842134995:538115",
+            "name": "Files/File_1717233842117003_538109",
+            "flags": 1
+        }
+    },
+    "1717233842134995:538115": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "566ed18a171c63eed55671e37aba5a69"
+                    },
+                    "v": "1717233853899014:544358"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4374528",
+                "compressedSize": "215133",
+                "extension": "t3d",
+                "originalRAM": "4374528",
+                "originalSize": "284560",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717233842193159:538130"
+        }
+    },
+    "1717233842145027:538122": {
+        "IFileManager": {
+            "path": "Files/File_1717233842145027_538122"
+        }
+    },
+    "1717233842193159:538130": {
+        "IFileManager": {
+            "path": "Files/File_1717233842193159_538130"
+        }
+    },
+    "1717233842220161:538131": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Textures/logo_image",
+                "hash": "566ed18a171c63eed55671e37aba5a69",
+                "complexResourceHash": "b06b253906f9dbf0fa2993b571b5977b"
+            }
+        }
+    },
+    "1717233853899014:544358": {
+        "IFileManager": {
+            "path": "Files/File_1717233853899014_544358"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "1717233845270997:539623": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233845271096:539624",
+            "resources": [
+                "1717233845242887:539607",
+                "1717233845787672:540262",
+                "1717233846079488:540446",
+                "1717233846204111:540518"
+            ]
+        }
+    },
+    "1717233845271096:539624": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Geometry/glasses_nerd/Meshes"
+            }
+        }
+    }
+}

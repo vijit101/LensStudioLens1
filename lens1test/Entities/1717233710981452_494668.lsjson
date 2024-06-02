@@ -1,0 +1,42 @@
+{
+    "1717233710979773:494667": {
+        "IFileManager": {
+            "path": "Files/File_1717233710979773_494667.pvr"
+        }
+    },
+    "1717233710981452:494668": {
+        "IResourceController": {
+            "name": "kitty_lens",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710982131:494669",
+            "fileId": "1717233710979773:494667",
+            "originalId": "1717233710982498:494674",
+            "publicId": "1717233710997977:494682",
+            "expected_hash": "29353eb9e7f0cc2184632b409bcf7795",
+            "additional": {
+                "originHash": "29353eb9e7f0cc2184632b409bcf7795"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710982131:494669",
+            "name": "Files/File_1717233710979773_494667.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710982498:494674": {
+        "IFileManager": {
+            "path": "Files/File_1717233710982498_494674.pvr"
+        }
+    },
+    "1717233710997977:494682": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Sunglasses/kitty_lens.pvr",
+                "hash": "29353eb9e7f0cc2184632b409bcf7795"
+            }
+        }
+    }
+}

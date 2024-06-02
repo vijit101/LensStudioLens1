@@ -1,0 +1,39 @@
+{
+    "1717233396224961:370709": {
+        "IResourceController": {
+            "name": "Brightness_Transition__ADD_TO_SCENE",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233396224917:370706",
+            "fileId": "1717233396255527:370721",
+            "originalId": "1717236658082512:1397809",
+            "publicId": "1717233396482966:370904",
+            "expected_hash": "800397c1a5fd332e823d25a879e623cc"
+        },
+        "IResourceManager": {
+            "uid": "1717233396224917:370706",
+            "name": "sceneObject_30",
+            "flags": 0
+        }
+    },
+    "1717233396255527:370721": {
+        "IFileManager": {
+            "path": "Files/File_1717233396255527_370721.oprfb"
+        }
+    },
+    "1717233396482966:370904": {
+        "IResourceController": {
+            "public": {
+                "path": "Brightness_Transition__ADD_TO_SCENE.oprfb",
+                "hash": "eed9962d65fdc4b1f6561456429bcbc8"
+            }
+        }
+    },
+    "1717236658082512:1397809": {
+        "IFileManager": {
+            "path": "Files/File_1717236658082512_1397809.oprfb"
+        }
+    }
+}

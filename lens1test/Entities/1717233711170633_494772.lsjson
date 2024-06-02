@@ -1,0 +1,42 @@
+{
+    "1717233711168719:494771": {
+        "IFileManager": {
+            "path": "Files/File_1717233711168719_494771.pvr"
+        }
+    },
+    "1717233711170633:494772": {
+        "IResourceController": {
+            "name": "round_sunglasses",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233711171399:494773",
+            "fileId": "1717233711168719:494771",
+            "originalId": "1717233711171764:494778",
+            "publicId": "1717233711187023:494786",
+            "expected_hash": "93591be5d0bb46540c0cd83b6e02337e",
+            "additional": {
+                "originHash": "93591be5d0bb46540c0cd83b6e02337e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233711171399:494773",
+            "name": "Files/File_1717233711168719_494771.jpg",
+            "flags": 1
+        }
+    },
+    "1717233711171764:494778": {
+        "IFileManager": {
+            "path": "Files/File_1717233711171764_494778.pvr"
+        }
+    },
+    "1717233711187023:494786": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Sunglasses/round_sunglasses.pvr",
+                "hash": "93591be5d0bb46540c0cd83b6e02337e"
+            }
+        }
+    }
+}

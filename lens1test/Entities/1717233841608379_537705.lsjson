@@ -1,0 +1,22 @@
+{
+    "1717233841608379:537705": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233841608528:537706",
+            "resources": [
+                "1717233841591424:537690"
+            ]
+        }
+    },
+    "1717233841608528:537706": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Scripts"
+            }
+        }
+    }
+}

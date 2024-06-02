@@ -1,0 +1,25 @@
+{
+    "1717233841606876:537703": {
+        "IResourceController": {
+            "name": "Sunglasses Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233841607238:537704",
+            "resources": [
+                "1717233841608379:537705",
+                "1717233841898569:537729",
+                "1717233841946733:537924",
+                "1717233842517772:538175"
+            ]
+        }
+    },
+    "1717233841607238:537704": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources"
+            }
+        }
+    }
+}

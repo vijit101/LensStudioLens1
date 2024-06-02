@@ -1,0 +1,79 @@
+{
+    "1717232362747912:68185": {
+        "IFileManager": {
+            "path": "Files/File_1717232362747912_68185.pvr"
+        }
+    },
+    "1717232362749516:68186": {
+        "IResourceController": {
+            "name": "Eid Mubarak",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717232362750157:68187",
+            "fileId": "1717232362747912:68185",
+            "originalId": "1717232362750487:68192",
+            "publicId": "1717232362779797:68201",
+            "expected_hash": "3e8c66ba39a17bfda130a05c1ce80ccd",
+            "additional": {
+                "originHash": "cfd6e43b34e75d229cf5a5227a86f025"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717232362750157:68187",
+            "name": "Files/File_1717232362747912_68185.jpg",
+            "flags": 1
+        }
+    },
+    "1717232362750157:68187": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "cfd6e43b34e75d229cf5a5227a86f025"
+                    },
+                    "v": "1717232364907272:69374"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "557280",
+                "compressedSize": "31760",
+                "extension": "png",
+                "originalRAM": "4449600",
+                "originalSize": "63003",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717232362762628:68198"
+        }
+    },
+    "1717232362750487:68192": {
+        "IFileManager": {
+            "path": "Files/File_1717232362750487_68192.png"
+        }
+    },
+    "1717232362762628:68198": {
+        "IFileManager": {
+            "path": "Files/File_1717232362762628_68198.png"
+        }
+    },
+    "1717232362779797:68201": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Eid Mubarak.png",
+                "hash": "cfd6e43b34e75d229cf5a5227a86f025"
+            }
+        }
+    },
+    "1717232364907272:69374": {
+        "IFileManager": {
+            "path": "Files/File_1717232364907272_69374.pvr"
+        }
+    }
+}

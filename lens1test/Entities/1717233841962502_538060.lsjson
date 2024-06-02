@@ -1,0 +1,39 @@
+{
+    "1717233841961014:538048": {
+        "IFileManager": {
+            "path": "Files/File_1717233841961014_538048"
+        }
+    },
+    "1717233841962502:538060": {
+        "IResourceController": {
+            "name": "Graph Occluder",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233841962508:538061",
+            "fileId": "1717233841961014:538048",
+            "originalId": "1717233841995548:538095",
+            "publicId": "1717233842094381:538102",
+            "expected_hash": "bf8bcc9e926a16239616eeb056b644f5"
+        },
+        "IResourceManager": {
+            "uid": "1717233841962508:538061",
+            "name": "Files/File_1717233841961014_538048",
+            "flags": 1
+        }
+    },
+    "1717233841995548:538095": {
+        "IFileManager": {
+            "path": "Files/File_1717233841995548_538095.lsmat"
+        }
+    },
+    "1717233842094381:538102": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Materials/Graph Occluder.lsmat",
+                "hash": "770b2c03ba68421c30b6737a8c68f8db"
+            }
+        }
+    }
+}

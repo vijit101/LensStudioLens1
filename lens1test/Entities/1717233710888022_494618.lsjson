@@ -1,0 +1,42 @@
+{
+    "1717233710886098:494615": {
+        "IFileManager": {
+            "path": "Files/File_1717233710886098_494615.pvr"
+        }
+    },
+    "1717233710888022:494618": {
+        "IResourceController": {
+            "name": "heart_sunglasses",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710888761:494619",
+            "fileId": "1717233710886098:494615",
+            "originalId": "1717233710889158:494624",
+            "publicId": "1717233710904894:494630",
+            "expected_hash": "6ef76ec34f0f3fee73d45576b4cbdcb5",
+            "additional": {
+                "originHash": "6ef76ec34f0f3fee73d45576b4cbdcb5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710888761:494619",
+            "name": "Files/File_1717233710886098_494615.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710889158:494624": {
+        "IFileManager": {
+            "path": "Files/File_1717233710889158_494624.pvr"
+        }
+    },
+    "1717233710904894:494630": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Sunglasses/heart_sunglasses.pvr",
+                "hash": "6ef76ec34f0f3fee73d45576b4cbdcb5"
+            }
+        }
+    }
+}

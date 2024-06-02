@@ -1,0 +1,42 @@
+{
+    "1717233711077886:494719": {
+        "IFileManager": {
+            "path": "Files/File_1717233711077886_494719.pvr"
+        }
+    },
+    "1717233711079820:494720": {
+        "IResourceController": {
+            "name": "pink_sunglasses",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233711080608:494721",
+            "fileId": "1717233711077886:494719",
+            "originalId": "1717233711080954:494726",
+            "publicId": "1717233711095184:494734",
+            "expected_hash": "a06d07de6d440b864551560f0d323bb5",
+            "additional": {
+                "originHash": "a06d07de6d440b864551560f0d323bb5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233711080608:494721",
+            "name": "Files/File_1717233711077886_494719.jpg",
+            "flags": 1
+        }
+    },
+    "1717233711080954:494726": {
+        "IFileManager": {
+            "path": "Files/File_1717233711080954_494726.pvr"
+        }
+    },
+    "1717233711095184:494734": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Sunglasses/pink_sunglasses.pvr",
+                "hash": "a06d07de6d440b864551560f0d323bb5"
+            }
+        }
+    }
+}

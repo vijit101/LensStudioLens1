@@ -1,0 +1,39 @@
+{
+    "1717233396327531:370816": {
+        "IFileManager": {
+            "path": "Files/File_1717233396327531_370816"
+        }
+    },
+    "1717233396328586:370817": {
+        "IResourceController": {
+            "name": "Brightness Transition [EDIT]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233396328595:370818",
+            "fileId": "1717233396327531:370816",
+            "originalId": "1717233396357022:370824",
+            "publicId": "1717233396467309:370833",
+            "expected_hash": "660063ff04bbb527b3f29a66ea5bf70c"
+        },
+        "IResourceManager": {
+            "uid": "1717233396328595:370818",
+            "name": "Files/File_1717233396327531_370816",
+            "flags": 1
+        }
+    },
+    "1717233396357022:370824": {
+        "IFileManager": {
+            "path": "Files/File_1717233396357022_370824.lsmat"
+        }
+    },
+    "1717233396467309:370833": {
+        "IResourceController": {
+            "public": {
+                "path": "Brightness Transition Resources/Materials/Brightness Transition [EDIT].lsmat",
+                "hash": "84f2fb2f7171195d04ebc96d9d9301b0"
+            }
+        }
+    }
+}

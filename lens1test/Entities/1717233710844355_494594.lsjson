@@ -1,0 +1,42 @@
+{
+    "1717233710842689:494593": {
+        "IFileManager": {
+            "path": "Files/File_1717233710842689_494593.pvr"
+        }
+    },
+    "1717233710844355:494594": {
+        "IResourceController": {
+            "name": "round_lenses",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710845132:494595",
+            "fileId": "1717233710842689:494593",
+            "originalId": "1717233710845485:494600",
+            "publicId": "1717233710860010:494608",
+            "expected_hash": "3f16c478540c74b06a276759cc54ff0b",
+            "additional": {
+                "originHash": "3f16c478540c74b06a276759cc54ff0b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710845132:494595",
+            "name": "Files/File_1717233710842689_494593.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710845485:494600": {
+        "IFileManager": {
+            "path": "Files/File_1717233710845485_494600.pvr"
+        }
+    },
+    "1717233710860010:494608": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Sunglasses/round_lenses.pvr",
+                "hash": "3f16c478540c74b06a276759cc54ff0b"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1717233710583359:494451": {
+        "IFileManager": {
+            "path": "Files/File_1717233710583359_494451.pvr"
+        }
+    },
+    "1717233710585600:494452": {
+        "IResourceController": {
+            "name": "nose_heart",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710586288:494453",
+            "fileId": "1717233710583359:494451",
+            "originalId": "1717233710586611:494458",
+            "publicId": "1717233710600376:494466",
+            "expected_hash": "6ca52c14072ad1f2502f1b726666098c",
+            "additional": {
+                "originHash": "6ca52c14072ad1f2502f1b726666098c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710586288:494453",
+            "name": "Files/File_1717233710583359_494451.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710586611:494458": {
+        "IFileManager": {
+            "path": "Files/File_1717233710586611_494458.pvr"
+        }
+    },
+    "1717233710600376:494466": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Nose/nose_heart.pvr",
+                "hash": "6ca52c14072ad1f2502f1b726666098c"
+            }
+        }
+    }
+}

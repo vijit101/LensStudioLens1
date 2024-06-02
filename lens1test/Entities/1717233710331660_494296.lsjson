@@ -1,0 +1,42 @@
+{
+    "1717233710329831:494295": {
+        "IFileManager": {
+            "path": "Files/File_1717233710329831_494295.pvr"
+        }
+    },
+    "1717233710331660:494296": {
+        "IResourceController": {
+            "name": "headband_half",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710332448:494297",
+            "fileId": "1717233710329831:494295",
+            "originalId": "1717233710332799:494302",
+            "publicId": "1717233710347282:494308",
+            "expected_hash": "52c61526a0736256a2a04d597b74d944",
+            "additional": {
+                "originHash": "52c61526a0736256a2a04d597b74d944"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710332448:494297",
+            "name": "Files/File_1717233710329831_494295.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710332799:494302": {
+        "IFileManager": {
+            "path": "Files/File_1717233710332799_494302.pvr"
+        }
+    },
+    "1717233710347282:494308": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Headband/headband_half.pvr",
+                "hash": "52c61526a0736256a2a04d597b74d944"
+            }
+        }
+    }
+}

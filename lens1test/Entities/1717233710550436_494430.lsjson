@@ -1,0 +1,42 @@
+{
+    "1717233710548495:494429": {
+        "IFileManager": {
+            "path": "Files/File_1717233710548495_494429.pvr"
+        }
+    },
+    "1717233710550436:494430": {
+        "IResourceController": {
+            "name": "nose_simple",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710551353:494431",
+            "fileId": "1717233710548495:494429",
+            "originalId": "1717233710551781:494436",
+            "publicId": "1717233710565854:494444",
+            "expected_hash": "655b724234eb690fbfd8b7ef669ca4d8",
+            "additional": {
+                "originHash": "655b724234eb690fbfd8b7ef669ca4d8"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710551353:494431",
+            "name": "Files/File_1717233710548495_494429.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710551781:494436": {
+        "IFileManager": {
+            "path": "Files/File_1717233710551781_494436.pvr"
+        }
+    },
+    "1717233710565854:494444": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Nose/nose_simple.pvr",
+                "hash": "655b724234eb690fbfd8b7ef669ca4d8"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1717233710174764:494197": {
+        "IFileManager": {
+            "path": "Files/File_1717233710174764_494197.pvr"
+        }
+    },
+    "1717233710176788:494198": {
+        "IResourceController": {
+            "name": "headband_worm",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710177657:494199",
+            "fileId": "1717233710174764:494197",
+            "originalId": "1717233710178016:494204",
+            "publicId": "1717233710193830:494212",
+            "expected_hash": "585ccbf684872b67e87faf4a8884f307",
+            "additional": {
+                "originHash": "585ccbf684872b67e87faf4a8884f307"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710177657:494199",
+            "name": "Files/File_1717233710174764_494197.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710178016:494204": {
+        "IFileManager": {
+            "path": "Files/File_1717233710178016_494204.pvr"
+        }
+    },
+    "1717233710193830:494212": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Headband/headband_worm.pvr",
+                "hash": "585ccbf684872b67e87faf4a8884f307"
+            }
+        }
+    }
+}

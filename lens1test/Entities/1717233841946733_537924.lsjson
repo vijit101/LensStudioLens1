@@ -1,0 +1,25 @@
+{
+    "1717233841946733:537924": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233841946935:537926",
+            "resources": [
+                "1717233841933514:537810",
+                "1717233842126643:538110",
+                "1717233842825227:538239",
+                "1717233843243612:538812"
+            ]
+        }
+    },
+    "1717233841946935:537926": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Textures"
+            }
+        }
+    }
+}

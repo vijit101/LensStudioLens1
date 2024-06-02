@@ -1,0 +1,67 @@
+{
+    "1717233459601619:398897": {
+        "IFileManager": {
+            "path": "Files/File_1717233459601619_398897.png"
+        }
+    },
+    "1717233459603584:398898": {
+        "IResourceController": {
+            "name": "perlin_noise2_3D",
+            "type": 1,
+            "subtype": 21,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233459607478:398899",
+            "fileId": "1717233459601619:398897",
+            "originalId": "1717233459607840:398904",
+            "publicId": "1717233459657979:398913",
+            "expected_hash": "9dc5b127e3661ffe9233d364a2c66488",
+            "additional": {
+                "originHash": "9dc5b127e3661ffe9233d364a2c66488",
+                "subtype": "21"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233459607478:398899",
+            "name": "Files/File_1717233459601619_398897.jpg",
+            "flags": 1
+        }
+    },
+    "1717233459607478:398899": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "9604",
+                "compressedSize": "247900",
+                "extension": "png",
+                "originalRAM": "9604",
+                "originalSize": "247900",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "21",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1717233459621318:398910"
+        }
+    },
+    "1717233459607840:398904": {
+        "IFileManager": {
+            "path": "Files/File_1717233459607840_398904.png"
+        }
+    },
+    "1717233459621318:398910": {
+        "IFileManager": {
+            "path": "Files/File_1717233459621318_398910.png"
+        }
+    },
+    "1717233459657979:398913": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/perlin_noise2_3D.png",
+                "hash": "9dc5b127e3661ffe9233d364a2c66488"
+            }
+        }
+    }
+}

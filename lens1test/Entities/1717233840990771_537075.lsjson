@@ -1,0 +1,39 @@
+{
+    "1717233840990771:537075": {
+        "IResourceController": {
+            "name": "Sunglasses__PUT_UNDER_MAIN_CAM",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233840990711:537072",
+            "fileId": "1717233841034805:537087",
+            "originalId": "1717236658216563:1398448",
+            "publicId": "1717233846449271:541337",
+            "expected_hash": "340208eb99f1d7fd4b881d80d0c24fa3"
+        },
+        "IResourceManager": {
+            "uid": "1717233840990711:537072",
+            "name": "sceneObject_215",
+            "flags": 0
+        }
+    },
+    "1717233841034805:537087": {
+        "IFileManager": {
+            "path": "Files/File_1717233841034805_537087.oprfb"
+        }
+    },
+    "1717233846449271:541337": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses__PUT_UNDER_MAIN_CAM.oprfb",
+                "hash": "24dc2097e7d4ee4d9201f04647262bd5"
+            }
+        }
+    },
+    "1717236658216563:1398448": {
+        "IFileManager": {
+            "path": "Files/File_1717236658216563_1398448.oprfb"
+        }
+    }
+}

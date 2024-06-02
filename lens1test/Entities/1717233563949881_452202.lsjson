@@ -1,0 +1,124 @@
+{
+    "1717233563947950:452189": {
+        "IFileManager": {
+            "path": "Files/File_1717233563947950_452189.mesh"
+        }
+    },
+    "1717233563949881:452202": {
+        "IResourceController": {
+            "name": "Particles Mesh",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233563964859:452287",
+            "fileId": "1717233563947950:452189",
+            "publicId": "1717233563984162:452301",
+            "expected_hash": "9cf6125d8ce9ba874fe0ff27b21b2323",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "0",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "2",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "2",
+                            "semantic": "texture0"
+                        }
+                    ]
+                },
+                "originalAttribs": {
+                    "vertexAttribs": [
+                        {
+                            "format": "0",
+                            "index": "0",
+                            "semantic": "position"
+                        },
+                        {
+                            "format": "2",
+                            "index": "1",
+                            "semantic": "color"
+                        },
+                        {
+                            "format": "2",
+                            "index": "2",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233563964859:452287",
+            "name": "Files/File_1717233563947950_452189.mesh",
+            "flags": 1
+        }
+    },
+    "1717233563964859:452287": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "59940",
+                "compressedSize": "19744",
+                "extension": "mesh",
+                "originalRAM": "59940",
+                "originalSize": "19744",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "0",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "2",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "2",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1717233563973814:452300"
+        }
+    },
+    "1717233563973814:452300": {
+        "IFileManager": {
+            "path": "Files/File_1717233563973814_452300.mesh"
+        }
+    },
+    "1717233563984162:452301": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles/Particles Mesh.mesh",
+                "hash": "9cf6125d8ce9ba874fe0ff27b21b2323"
+            }
+        }
+    }
+}

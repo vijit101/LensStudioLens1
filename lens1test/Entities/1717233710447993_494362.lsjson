@@ -1,0 +1,42 @@
+{
+    "1717233710446159:494361": {
+        "IFileManager": {
+            "path": "Files/File_1717233710446159_494361.pvr"
+        }
+    },
+    "1717233710447993:494362": {
+        "IResourceController": {
+            "name": "nose_clown",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710448762:494363",
+            "fileId": "1717233710446159:494361",
+            "originalId": "1717233710449135:494368",
+            "publicId": "1717233710465218:494378",
+            "expected_hash": "7210eb5682141147454f68ef3481b847",
+            "additional": {
+                "originHash": "7210eb5682141147454f68ef3481b847"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710448762:494363",
+            "name": "Files/File_1717233710446159_494361.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710449135:494368": {
+        "IFileManager": {
+            "path": "Files/File_1717233710449135_494368.pvr"
+        }
+    },
+    "1717233710465218:494378": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Nose/nose_clown.pvr",
+                "hash": "7210eb5682141147454f68ef3481b847"
+            }
+        }
+    }
+}

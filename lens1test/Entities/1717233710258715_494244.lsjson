@@ -1,0 +1,42 @@
+{
+    "1717233710256707:494243": {
+        "IFileManager": {
+            "path": "Files/File_1717233710256707_494243.pvr"
+        }
+    },
+    "1717233710258715:494244": {
+        "IResourceController": {
+            "name": "headband_kitty",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710260041:494245",
+            "fileId": "1717233710256707:494243",
+            "originalId": "1717233710260508:494251",
+            "publicId": "1717233710276434:494258",
+            "expected_hash": "1ac907dcdeaf7a963e5b6a0a08049259",
+            "additional": {
+                "originHash": "1ac907dcdeaf7a963e5b6a0a08049259"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710260041:494245",
+            "name": "Files/File_1717233710256707_494243.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710260508:494251": {
+        "IFileManager": {
+            "path": "Files/File_1717233710260508_494251.pvr"
+        }
+    },
+    "1717233710276434:494258": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Headband/headband_kitty.pvr",
+                "hash": "1ac907dcdeaf7a963e5b6a0a08049259"
+            }
+        }
+    }
+}

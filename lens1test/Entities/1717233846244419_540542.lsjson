@@ -1,0 +1,115 @@
+{
+    "1717233846242407:540541": {
+        "IFileManager": {
+            "path": "Files/File_1717233846242407_540541.mesh"
+        }
+    },
+    "1717233846244419:540542": {
+        "IResourceController": {
+            "name": "hearts_lens",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233846258027:540546",
+            "fileId": "1717233846242407:540541",
+            "publicId": "1717233846269261:540558",
+            "expected_hash": "70962bd370d1407de54f1a3271308265",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233846258027:540546",
+            "name": "Files/File_1717233846242407_540541.mesh",
+            "flags": 1
+        }
+    },
+    "1717233846258027:540546": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4296",
+                "compressedSize": "3795",
+                "extension": "mesh",
+                "originalRAM": "4296",
+                "originalSize": "3795",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1717233846263916:540557"
+        }
+    },
+    "1717233846263916:540557": {
+        "IFileManager": {
+            "path": "Files/File_1717233846263916_540557.mesh"
+        }
+    },
+    "1717233846269261:540558": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Geometry/glasses_hearts_new/Meshes/hearts_lens.mesh",
+                "hash": "70962bd370d1407de54f1a3271308265"
+            }
+        }
+    }
+}

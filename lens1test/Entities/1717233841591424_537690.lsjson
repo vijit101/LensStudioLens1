@@ -1,0 +1,38 @@
+{
+    "1717233841589118:537689": {
+        "IFileManager": {
+            "path": "Files/File_1717233841589118_537689.js"
+        }
+    },
+    "1717233841591424:537690": {
+        "IResourceController": {
+            "name": "SunglassesController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233841591446:537691",
+            "fileId": "1717233841589118:537689",
+            "publicId": "1717233841618980:537707",
+            "expected_hash": "51e6427a932f8ef5268cbbca1ef444ba"
+        },
+        "IResourceManager": {
+            "uid": "1717233841591446:537691",
+            "name": "Files/File_1717233841589118_537689.js",
+            "flags": 1
+        }
+    },
+    "1717233841591446:537691": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1717233841618980:537707": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Scripts/SunglassesController.js",
+                "hash": "51e6427a932f8ef5268cbbca1ef444ba"
+            }
+        }
+    }
+}

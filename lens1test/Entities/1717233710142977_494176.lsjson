@@ -1,0 +1,42 @@
+{
+    "1717233710141106:494175": {
+        "IFileManager": {
+            "path": "Files/File_1717233710141106_494175.pvr"
+        }
+    },
+    "1717233710142977:494176": {
+        "IResourceController": {
+            "name": "extra_whiskers_colored",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233710143712:494177",
+            "fileId": "1717233710141106:494175",
+            "originalId": "1717233710144070:494182",
+            "publicId": "1717233710157274:494188",
+            "expected_hash": "97816396f1ed05050715bb044724d45d",
+            "additional": {
+                "originHash": "97816396f1ed05050715bb044724d45d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233710143712:494177",
+            "name": "Files/File_1717233710141106_494175.jpg",
+            "flags": 1
+        }
+    },
+    "1717233710144070:494182": {
+        "IFileManager": {
+            "path": "Files/File_1717233710144070_494182.pvr"
+        }
+    },
+    "1717233710157274:494188": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources/Extras/extra_whiskers_colored.pvr",
+                "hash": "97816396f1ed05050715bb044724d45d"
+            }
+        }
+    }
+}

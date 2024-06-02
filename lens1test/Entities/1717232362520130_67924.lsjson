@@ -1,0 +1,39 @@
+{
+    "1717232362520130:67924": {
+        "IResourceController": {
+            "name": "Islamic_Eids_and_occasions_Pack",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717232362520066:67921",
+            "fileId": "1717232362545387:67933",
+            "originalId": "1717236658045194:1397774",
+            "publicId": "1717232363066022:68534",
+            "expected_hash": "efb7fe0090a4a998661d87f467aceda1"
+        },
+        "IResourceManager": {
+            "uid": "1717232362520066:67921",
+            "name": "sceneObject_1",
+            "flags": 0
+        }
+    },
+    "1717232362545387:67933": {
+        "IFileManager": {
+            "path": "Files/File_1717232362545387_67933.oprfb"
+        }
+    },
+    "1717232363066022:68534": {
+        "IResourceController": {
+            "public": {
+                "path": "Islamic_Eids_and_occasions_Pack.oprfb",
+                "hash": "619501e9b3f998491235f7b173d70942"
+            }
+        }
+    },
+    "1717236658045194:1397774": {
+        "IFileManager": {
+            "path": "Files/File_1717236658045194_1397774.oprfb"
+        }
+    }
+}

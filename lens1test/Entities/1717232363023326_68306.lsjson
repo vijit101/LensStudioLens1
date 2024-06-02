@@ -1,0 +1,79 @@
+{
+    "1717232363021411:68305": {
+        "IFileManager": {
+            "path": "Files/File_1717232363021411_68305.pvr"
+        }
+    },
+    "1717232363023326:68306": {
+        "IResourceController": {
+            "name": "Eid crescent",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717232363024078:68307",
+            "fileId": "1717232363021411:68305",
+            "originalId": "1717232363024479:68312",
+            "publicId": "1717232363056486:68321",
+            "expected_hash": "369f66220c78981c364c1f5a33dc1768",
+            "additional": {
+                "originHash": "65e6b0891e93b9a6fcb3872bd72b29f4"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717232363024078:68307",
+            "name": "Files/File_1717232363021411_68305.jpg",
+            "flags": 1
+        }
+    },
+    "1717232363024078:68307": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "65e6b0891e93b9a6fcb3872bd72b29f4"
+                    },
+                    "v": "1717232368813096:70830"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "557280",
+                "compressedSize": "45680",
+                "extension": "png",
+                "originalRAM": "4449600",
+                "originalSize": "76108",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717232363036878:68320"
+        }
+    },
+    "1717232363024479:68312": {
+        "IFileManager": {
+            "path": "Files/File_1717232363024479_68312.png"
+        }
+    },
+    "1717232363036878:68320": {
+        "IFileManager": {
+            "path": "Files/File_1717232363036878_68320.png"
+        }
+    },
+    "1717232363056486:68321": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Eid crescent.png",
+                "hash": "65e6b0891e93b9a6fcb3872bd72b29f4"
+            }
+        }
+    },
+    "1717232368813096:70830": {
+        "IFileManager": {
+            "path": "Files/File_1717232368813096_70830.pvr"
+        }
+    }
+}

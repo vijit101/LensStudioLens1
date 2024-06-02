@@ -1,0 +1,79 @@
+{
+    "1717233844173318:539083": {
+        "IFileManager": {
+            "path": "Files/File_1717233844173318_539083.pvr"
+        }
+    },
+    "1717233844176107:539086": {
+        "IResourceController": {
+            "name": "aviator_normals",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233844177163:539087",
+            "fileId": "1717233844173318:539083",
+            "originalId": "1717233844177620:539092",
+            "publicId": "1717233844209562:539099",
+            "expected_hash": "132bfdc1ed9c31273e4b0d5d5c120622",
+            "additional": {
+                "originHash": "b9e47d8070fbe06b3357ee1f7bd44a13"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717233844177163:539087",
+            "name": "Files/File_1717233844173318_539083.jpg",
+            "flags": 1
+        }
+    },
+    "1717233844177163:539087": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b9e47d8070fbe06b3357ee1f7bd44a13"
+                    },
+                    "v": "1717233885281719:569902"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "40959",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "47131",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717233844191545:539098"
+        }
+    },
+    "1717233844177620:539092": {
+        "IFileManager": {
+            "path": "Files/File_1717233844177620_539092.jpg"
+        }
+    },
+    "1717233844191545:539098": {
+        "IFileManager": {
+            "path": "Files/File_1717233844191545_539098.jpg"
+        }
+    },
+    "1717233844209562:539099": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Textures/FramesTextures/aviator_normals.jpg",
+                "hash": "b9e47d8070fbe06b3357ee1f7bd44a13"
+            }
+        }
+    },
+    "1717233885281719:569902": {
+        "IFileManager": {
+            "path": "Files/File_1717233885281719_569902.pvr"
+        }
+    }
+}

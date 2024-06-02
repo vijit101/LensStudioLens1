@@ -1,0 +1,26 @@
+{
+    "1717233709929753:494028": {
+        "IResourceController": {
+            "name": "Face Attachments Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1717233709930008:494029",
+            "resources": [
+                "1717233709930621:494032",
+                "1717233710095506:494143",
+                "1717233710192065:494210",
+                "1717233710463377:494376",
+                "1717233710674706:494510"
+            ]
+        }
+    },
+    "1717233709930008:494029": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Attachments Resources"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1717233842247734:538138": {
+        "IFileManager": {
+            "path": "Files/File_1717233842247734_538138"
+        }
+    },
+    "1717233842249031:538139": {
+        "IResourceController": {
+            "name": "lens_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717233842249036:538140",
+            "fileId": "1717233842247734:538138",
+            "originalId": "1717233842276367:538146",
+            "publicId": "1717233842464605:538153",
+            "expected_hash": "e30df036e123b2ecc610b5cbd81fed22"
+        },
+        "IResourceManager": {
+            "uid": "1717233842249036:538140",
+            "name": "Files/File_1717233842247734_538138",
+            "flags": 1
+        }
+    },
+    "1717233842276367:538146": {
+        "IFileManager": {
+            "path": "Files/File_1717233842276367_538146.lsmat"
+        }
+    },
+    "1717233842464605:538153": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglasses Resources/Materials/lens_material.lsmat",
+                "hash": "95c2a7efffeadb1670c72a505ec040be"
+            }
+        }
+    }
+}
